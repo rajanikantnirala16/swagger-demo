@@ -1,4 +1,4 @@
-Swagger integration with Spring:
+```Swagger integration with Spring:
 Before learning swagger:
 	Why do we need to document your RESTful API?
 Think about the consumer.
@@ -164,3 +164,4 @@ o	Springfox libraries in general - another implementation of the specification f
 o	Swagger.js and Swagger-ui - are client libraries in javascript that can consume swagger specification.
 o	springfox-swagger-ui - the one that you’re referring to, is just packaging swagger-ui in a convenient way so that spring services can serve it up.
 https://springfox.github.io/springfox/docs/snapshot/#answers-to-common-questions-and-problems
+```
